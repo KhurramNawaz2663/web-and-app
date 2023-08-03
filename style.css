@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    display: inline-block;
+    
+}
+a{
+    text-decoration: none;
+   margin-left: 20px;
+   padding-top: 15px;
+}
